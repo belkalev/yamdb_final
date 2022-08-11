@@ -16,7 +16,7 @@ https://github.com/belkalev/yamdb_final/actions/workflows/yamdb_workflow.yml/bad
 
 2. Запустить сборку контейнера
 
-`docker-compose up -d 
+`docker-compose up -d`
 
 3. Выполнить миграции
 
