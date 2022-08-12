@@ -2,7 +2,7 @@
 
 Проект доступен по ссылке http://51.250.106.307/api/v1/
 
-https://github.com/belkalev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![Yamdb_workflow](https://github.com/belkalev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 Проект YaMDb
 ========================================================
