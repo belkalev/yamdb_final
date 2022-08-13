@@ -1,6 +1,6 @@
 # Yamdb_final
 
-Проект http://51.250.106.307/api/v1/
+Проект http://84.201.142.101/api/v1/
 
 ![Yamdb_workflow](https://github.com/belkalev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
