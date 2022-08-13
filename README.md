@@ -1,4 +1,4 @@
-# yamdb_final
+# Yamdb_final
 
 Проект http://51.250.106.307/api/v1/
 
