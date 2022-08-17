@@ -1,4 +1,4 @@
-# Yamdb_final
+# yamdb_final
 
 Проект http://84.201.142.101/api/v1/
 
