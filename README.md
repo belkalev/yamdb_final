@@ -1,4 +1,4 @@
-#  Yamdb_final
+#  yamdb_final
 
 Проект http://130.193.41.54/api/v1/
 
