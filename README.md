@@ -13,6 +13,7 @@
 1. Склонировать проект и перейти в нужный репазиторий
 
 `git clone git@github.com:belkalev/yamdb_final.git`
+
 `cd infra`
 
 2. Запустить сборку контейнера
